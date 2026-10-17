@@ -1,0 +1,15 @@
+# Obsidian workspace state (window layout, ephemeral)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian trash
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp / editor files
+*.tmp
+*.swp
+*~
